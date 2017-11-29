@@ -11,69 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3255d0c8-3751-45df-a7be-f897c4405132" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.tx/config" afterPath="$PROJECT_DIR$/.tx/config" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/Doxyfile" afterPath="$PROJECT_DIR$/doc/Doxyfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/README.md" afterPath="$PROJECT_DIR$/doc/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/README_windows.txt" afterPath="$PROJECT_DIR$/doc/README_windows.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/build-openbsd.md" afterPath="$PROJECT_DIR$/doc/build-openbsd.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/build-osx.md" afterPath="$PROJECT_DIR$/doc/build-osx.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/build-unix.md" afterPath="$PROJECT_DIR$/doc/build-unix.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/build-windows.md" afterPath="$PROJECT_DIR$/doc/build-windows.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/developer-notes.md" afterPath="$PROJECT_DIR$/doc/developer-notes.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/dnsseed-policy.md" afterPath="$PROJECT_DIR$/doc/dnsseed-policy.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/files.md" afterPath="$PROJECT_DIR$/doc/files.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/guide-startmany.md" afterPath="$PROJECT_DIR$/doc/guide-startmany.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/init.md" afterPath="$PROJECT_DIR$/doc/init.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/instantsend.md" afterPath="$PROJECT_DIR$/doc/instantsend.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/keepass.md" afterPath="$PROJECT_DIR$/doc/keepass.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/masternode_conf.md" afterPath="$PROJECT_DIR$/doc/masternode_conf.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/multiwallet-qt.md" afterPath="$PROJECT_DIR$/doc/multiwallet-qt.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/reduce-traffic.md" afterPath="$PROJECT_DIR$/doc/reduce-traffic.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/release-notes.md" afterPath="$PROJECT_DIR$/doc/release-notes.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/release-notes/bitcoin/release-notes-0.10.0.md" afterPath="$PROJECT_DIR$/doc/release-notes/bitcoin/release-notes-0.10.0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/release-notes/bitcoin/release-notes-0.10.1.md" afterPath="$PROJECT_DIR$/doc/release-notes/bitcoin/release-notes-0.10.1.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/release-notes/bitcoin/release-notes-0.10.3.md" afterPath="$PROJECT_DIR$/doc/release-notes/bitcoin/release-notes-0.10.3.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/release-notes/bitcoin/release-notes-0.11.0.md" afterPath="$PROJECT_DIR$/doc/release-notes/bitcoin/release-notes-0.11.0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/release-notes/bitcoin/release-notes-0.11.1.md" afterPath="$PROJECT_DIR$/doc/release-notes/bitcoin/release-notes-0.11.1.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/release-notes/bitcoin/release-notes-0.3.20.2.md" afterPath="$PROJECT_DIR$/doc/release-notes/bitcoin/release-notes-0.3.20.2.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/release-notes/bitcoin/release-notes-0.4.3.md" afterPath="$PROJECT_DIR$/doc/release-notes/bitcoin/release-notes-0.4.3.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/release-notes/bitcoin/release-notes-0.4.4.md" afterPath="$PROJECT_DIR$/doc/release-notes/bitcoin/release-notes-0.4.4.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/release-notes/bitcoin/release-notes-0.5.2.md" afterPath="$PROJECT_DIR$/doc/release-notes/bitcoin/release-notes-0.5.2.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/release-notes/bitcoin/release-notes-0.7.0.md" afterPath="$PROJECT_DIR$/doc/release-notes/bitcoin/release-notes-0.7.0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/release-notes/bitcoin/release-notes-0.7.1.md" afterPath="$PROJECT_DIR$/doc/release-notes/bitcoin/release-notes-0.7.1.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/release-notes/bitcoin/release-notes-0.7.2.md" afterPath="$PROJECT_DIR$/doc/release-notes/bitcoin/release-notes-0.7.2.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/release-notes/bitcoin/release-notes-0.8.0.md" afterPath="$PROJECT_DIR$/doc/release-notes/bitcoin/release-notes-0.8.0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/release-notes/bitcoin/release-notes-0.8.2.md" afterPath="$PROJECT_DIR$/doc/release-notes/bitcoin/release-notes-0.8.2.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/release-notes/bitcoin/release-notes-0.9.2.1.md" afterPath="$PROJECT_DIR$/doc/release-notes/bitcoin/release-notes-0.9.2.1.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/release-notes/bitcoin/release-notes-0.9.2.md" afterPath="$PROJECT_DIR$/doc/release-notes/bitcoin/release-notes-0.9.2.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/release-notes/bitcoin/release-notes-0.9.4.md" afterPath="$PROJECT_DIR$/doc/release-notes/bitcoin/release-notes-0.9.4.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/release-notes/crowdcoin/release-notes-0.11.0.md" afterPath="$PROJECT_DIR$/doc/release-notes/crowdcoin/release-notes-0.11.0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/release-notes/crowdcoin/release-notes-0.11.1.md" afterPath="$PROJECT_DIR$/doc/release-notes/crowdcoin/release-notes-0.11.1.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/release-notes/crowdcoin/release-notes-0.11.2.md" afterPath="$PROJECT_DIR$/doc/release-notes/crowdcoin/release-notes-0.11.2.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/release-notes/crowdcoin/release-notes-0.12.0.md" afterPath="$PROJECT_DIR$/doc/release-notes/crowdcoin/release-notes-0.12.0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/release-notes/release-notes-0.12.0.md" afterPath="$PROJECT_DIR$/doc/release-notes/release-notes-0.12.0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/release-notes/release-notes-0.12.1.md" afterPath="$PROJECT_DIR$/doc/release-notes/release-notes-0.12.1.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/tor.md" afterPath="$PROJECT_DIR$/doc/tor.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/travis-ci.txt" afterPath="$PROJECT_DIR$/doc/travis-ci.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/unit-tests.md" afterPath="$PROJECT_DIR$/doc/unit-tests.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/zmq.md" afterPath="$PROJECT_DIR$/doc/zmq.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qa/pull-tester/rpc-tests.py" afterPath="$PROJECT_DIR$/qa/pull-tester/rpc-tests.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qa/pull-tester/run-bitcoind-for-test.sh.in" afterPath="$PROJECT_DIR$/qa/pull-tester/run-bitcoind-for-test.sh.in" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qa/rpc-tests/fundrawtransaction.py" afterPath="$PROJECT_DIR$/qa/rpc-tests/fundrawtransaction.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qa/rpc-tests/listtransactions.py" afterPath="$PROJECT_DIR$/qa/rpc-tests/listtransactions.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qa/rpc-tests/maxblocksinflight.py" afterPath="$PROJECT_DIR$/qa/rpc-tests/maxblocksinflight.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qa/rpc-tests/maxuploadtarget.py" afterPath="$PROJECT_DIR$/qa/rpc-tests/maxuploadtarget.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qa/rpc-tests/merkle_blocks.py" afterPath="$PROJECT_DIR$/qa/rpc-tests/merkle_blocks.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qa/rpc-tests/multi_rpc.py" afterPath="$PROJECT_DIR$/qa/rpc-tests/multi_rpc.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qa/rpc-tests/p2p-acceptblock.py" afterPath="$PROJECT_DIR$/qa/rpc-tests/p2p-acceptblock.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qa/rpc-tests/test_framework/comptool.py" afterPath="$PROJECT_DIR$/qa/rpc-tests/test_framework/comptool.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qa/rpc-tests/test_framework/mininode.py" afterPath="$PROJECT_DIR$/qa/rpc-tests/test_framework/mininode.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qa/rpc-tests/test_framework/test_framework.py" afterPath="$PROJECT_DIR$/qa/rpc-tests/test_framework/test_framework.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qa/rpc-tests/test_framework/util.py" afterPath="$PROJECT_DIR$/qa/rpc-tests/test_framework/util.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qa/rpc-tests/txn_clone.py" afterPath="$PROJECT_DIR$/qa/rpc-tests/txn_clone.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qa/rpc-tests/txn_doublespend.py" afterPath="$PROJECT_DIR$/qa/rpc-tests/txn_doublespend.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qa/rpc-tests/wallet.py" afterPath="$PROJECT_DIR$/qa/rpc-tests/wallet.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/spork.h" afterPath="$PROJECT_DIR$/src/spork.h" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <ignored path="$PROJECT_DIR$/.idea/" />
@@ -93,7 +31,7 @@
       <file leaf-file-name="chainparams.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/chainparams.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
+            <state relative-caret-position="6300">
               <caret line="350" column="46" lean-forward="false" selection-start-line="350" selection-start-column="46" selection-end-line="350" selection-end-column="46" />
               <folding />
             </state>
@@ -103,7 +41,7 @@
       <file leaf-file-name="Doxyfile" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/doc/Doxyfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
+            <state relative-caret-position="540">
               <caret line="30" column="26" lean-forward="false" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
               <folding />
             </state>
@@ -147,7 +85,7 @@
         <entry file="file://$PROJECT_DIR$/doc/build-unix.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="119">
+              <first_editor relative-caret-position="2574">
                 <caret line="143" column="0" lean-forward="false" selection-start-line="143" selection-start-column="0" selection-end-line="143" selection-end-column="0" />
                 <folding />
               </first_editor>
@@ -156,12 +94,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="90">
-                <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+              <first_editor relative-caret-position="378">
+                <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -169,21 +107,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="rpcserver.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/rpcserver.cpp">
+      <file leaf-file-name="spork.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/spork.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="24" column="24" lean-forward="false" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="24" />
+            <state relative-caret-position="388">
+              <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="spork.h" pinned="false" current-in-tab="false">
+      <file leaf-file-name="spork.h" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/spork.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="34" column="88" lean-forward="false" selection-start-line="34" selection-start-column="88" selection-end-line="34" selection-end-column="88" />
+            <state relative-caret-position="388">
+              <caret line="92" column="26" lean-forward="true" selection-start-line="92" selection-start-column="26" selection-end-line="92" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -251,7 +189,6 @@
         <option value="$PROJECT_DIR$/contrib/debian/changelog" />
         <option value="$PROJECT_DIR$/contrib/seeds/nodes_main.txt" />
         <option value="$PROJECT_DIR$/src/rpcmining.cpp" />
-        <option value="$PROJECT_DIR$/src/spork.h" />
         <option value="$PROJECT_DIR$/src/chainparams.cpp" />
         <option value="$PROJECT_DIR$/doc/Doxyfile" />
         <option value="$PROJECT_DIR$/doc/README.md" />
@@ -259,6 +196,7 @@
         <option value="$PROJECT_DIR$/.tx/config" />
         <option value="$PROJECT_DIR$/doc/build-unix.md" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/spork.h" />
       </list>
     </option>
   </component>
@@ -298,6 +236,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Crowdcoin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Crowdcoin" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Crowdcoin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -518,12 +470,14 @@
       <workItem from="1511430366755" duration="3327000" />
       <workItem from="1511897341406" duration="8356000" />
       <workItem from="1511942207877" duration="1399000" />
-      <workItem from="1511965571563" duration="377000" />
+      <workItem from="1511965571563" duration="1613000" />
+      <workItem from="1511969173338" duration="1199000" />
+      <workItem from="1511976116270" duration="735000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25316000" />
+    <option name="totallyTimeSpent" value="28486000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-1" width="1368" height="747" extended-state="0" />
@@ -532,13 +486,12 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19210722" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26655897" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26655897" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28109854" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28019324" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -547,6 +500,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -827,13 +781,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/spork.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1368">
-          <caret line="76" column="27" lean-forward="false" selection-start-line="76" selection-start-column="27" selection-end-line="76" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chain.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="186">
@@ -876,14 +823,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/spork.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="34" column="88" lean-forward="false" selection-start-line="34" selection-start-column="88" selection-end-line="34" selection-end-column="88" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/rpcserver.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
@@ -902,7 +841,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chainparams.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
+        <state relative-caret-position="6300">
           <caret line="350" column="46" lean-forward="false" selection-start-line="350" selection-start-column="46" selection-end-line="350" selection-end-column="46" />
           <folding />
         </state>
@@ -910,7 +849,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/doc/Doxyfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
+        <state relative-caret-position="540">
           <caret line="30" column="26" lean-forward="false" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
           <folding />
         </state>
@@ -946,7 +885,7 @@
     <entry file="file://$PROJECT_DIR$/doc/build-unix.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="119">
+          <first_editor relative-caret-position="2574">
             <caret line="143" column="0" lean-forward="false" selection-start-line="143" selection-start-column="0" selection-end-line="143" selection-end-column="0" />
             <folding />
           </first_editor>
@@ -957,11 +896,27 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="90">
-            <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+          <first_editor relative-caret-position="378">
+            <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spork.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spork.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="92" column="26" lean-forward="true" selection-start-line="92" selection-start-column="26" selection-end-line="92" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>
